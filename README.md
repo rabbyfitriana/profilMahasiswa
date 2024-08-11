@@ -1,4 +1,8 @@
-# profilMahasiswa
-- Aplikasi sederhana untuk masuk ke profil mahasiswa
-- Dibuat untuk memenuhi nilai UTS mata kuliah Mobile Application
-- Berisi profil mahasiswa yang mengikuti kelas Mobile Application
+# Profil Mahasiswa
+
+This project was created to complete the Final Project of Mobile Application course.
+
+## Feature
+* Students profile picture
+* Students information
+* Update information
